@@ -2,7 +2,7 @@
 # 👨‍💻 Shubhayu Mallick | PySpark Data Engineer
 
 🔹 Data Engineer with 3+ years of experience in building robust, scalable, and cloud-native big data pipelines  
-🔹 Specialized in **PySpark**, **AWS EMR**, **SQL**, and **Airflow**  
+🔹 Specialized in **PySpark**, **AWS EMR**, **SQL**, and **Airflow** 
 🔹 Experienced in delivering data-driven solutions for enterprise clients like **Sanofi**
 
 ---
